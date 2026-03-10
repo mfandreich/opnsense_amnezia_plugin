@@ -106,7 +106,7 @@
                                         <li><strong>[Interface]</strong> - Interface settings (PrivateKey, Address, DNS, etc.)</li>
                                         <li><strong>[Peer]</strong> - Peer settings (PublicKey, Endpoint, AllowedIPs, etc.)</li>
                                     </ul>
-                                    <p>{{ lang._('All AmneziaWG-specific parameters (Jc, Jmin, Jmax, S1, S2, H1, H2, H3, H4, UserLand) are supported.') }}</p>
+                                    <p>{{ lang._('All AmneziaWG-specific parameters (Jc, Jmin, Jmax, S1, S2, H1, H2, H3, H4, I1, I2, I3, I4, UserLand) are supported.') }}</p>
                                 </div>
                             </div>
                         </div>

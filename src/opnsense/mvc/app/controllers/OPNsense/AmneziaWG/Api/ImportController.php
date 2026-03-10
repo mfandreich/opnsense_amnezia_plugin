@@ -62,8 +62,10 @@ class ImportController extends ApiControllerBase
         $parsed = [
             'name' => '', 'description' => '', 'private_key' => '', 'listen_port' => '', 'address' => '',
             'dns' => '', 'table' => '', 'postup' => '', 'preup' => '', 'mtu' => '',
-            'jc' => '', 'jmin' => '', 'jmax' => '', 's1' => '', 's2' => '', 'h1' => '', 'h2' => '',
-            'h3' => '', 'h4' => '', 'userland' => '',
+            'jc' => '', 'jmin' => '', 'jmax' => '', 's1' => '', 's2' => '',
+            'h1' => '', 'h2' => '', 'h3' => '', 'h4' => '',
+            'i1' => '', 'i2' => '', 'i3' => '', 'i4' => '',
+            'userland' => '',
             'peer_public_key' => '', 'peer_preshared_key' => '', 'peer_allowed_ips' => '',
             'peer_endpoint' => '', 'peer_persistent_keepalive' => '', 'peer_routes' => ''
         ];

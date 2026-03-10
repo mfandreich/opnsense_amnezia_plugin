@@ -189,6 +189,42 @@
         </grid_view>
     </field>
     <field>
+        <id>instance.i1</id>
+        <label>I1</label>
+        <type>text</type>
+        <help>AmneziaWG i1 parameter.</help>
+        <grid_view>
+            <visible>false</visible>
+        </grid_view>
+    </field>
+    <field>
+        <id>instance.i2</id>
+        <label>I2</label>
+        <type>text</type>
+        <help>AmneziaWG i2 parameter.</help>
+        <grid_view>
+            <visible>false</visible>
+        </grid_view>
+    </field>
+    <field>
+        <id>instance.i3</id>
+        <label>I3</label>
+        <type>text</type>
+        <help>AmneziaWG i3 parameter.</help>
+        <grid_view>
+            <visible>false</visible>
+        </grid_view>
+    </field>
+    <field>
+        <id>instance.i4</id>
+        <label>I4</label>
+        <type>text</type>
+        <help>AmneziaWG i4 parameter.</help>
+        <grid_view>
+            <visible>false</visible>
+        </grid_view>
+    </field>
+    <field>
         <id>instance.userland</id>
         <label>Userland</label>
         <type>checkbox</type>

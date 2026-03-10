@@ -205,6 +205,22 @@ function generate_amneziawg_config($instance_uuid, $instance_config)
     if (!empty($instance_config['h4'])) {
         $conf_content .= "H4 = {$instance_config['h4']}\n";
     }
+
+    if (!empty($instance_config['i1'])) {
+        $conf_content .= "I1 = {$instance_config['i1']}\n";
+    }
+
+    if (!empty($instance_config['i2'])) {
+        $conf_content .= "I2 = {$instance_config['i2']}\n";
+    }
+
+    if (!empty($instance_config['i3'])) {
+        $conf_content .= "I3 = {$instance_config['i3']}\n";
+    }
+
+    if (!empty($instance_config['i4'])) {
+        $conf_content .= "I4 = {$instance_config['i4']}\n";
+    }
     
     if (!empty($instance_config['userland']) && $instance_config['userland'] == '1') {
         $conf_content .= "UserLand = true\n";

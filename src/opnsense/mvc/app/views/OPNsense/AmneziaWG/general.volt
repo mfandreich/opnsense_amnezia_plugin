@@ -99,6 +99,10 @@
                                 if (data.h2) $("#instance\\.h2").val(data.h2);
                                 if (data.h3) $("#instance\\.h3").val(data.h3);
                                 if (data.h4) $("#instance\\.h4").val(data.h4);
+                                if (data.i1) $("#instance\\.i1").val(data.i1);
+                                if (data.i2) $("#instance\\.i2").val(data.i2);
+                                if (data.i3) $("#instance\\.i3").val(data.i3);
+                                if (data.i4) $("#instance\\.i4").val(data.i4);
                                 if (data.userland) $("#instance\\.userland").prop('checked', data.userland === '1');
                                 if (data.peer_public_key) $("#instance\\.peer_public_key").val(data.peer_public_key);
                                 if (data.peer_preshared_key) $("#instance\\.peer_preshared_key").val(data.peer_preshared_key);

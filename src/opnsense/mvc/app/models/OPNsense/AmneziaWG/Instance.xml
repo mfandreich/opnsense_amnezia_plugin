@@ -72,6 +72,18 @@
                 <h4 type="IntegerField">
                     <Default>1789444460</Default>
                 </h4>
+                <i1 type="TextField">
+                    <Default/>
+                </i1>
+                <i2 type="TextField">
+                    <Default/>
+                </i2>
+                <i3 type="TextField">
+                    <Default/>
+                </i3>
+                <i4 type="TextField">
+                    <Default/>
+                </i4>
                 <userland type="BooleanField">
                     <Default>0</Default>
                 </userland>

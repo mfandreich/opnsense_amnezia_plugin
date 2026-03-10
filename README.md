@@ -1,4 +1,4 @@
-# AmneziaWG Plugin for OPNsense
+# AmneziaWG Plugin for OPNsense (AWG 2.0 Supported)
 
 ## Overview
 
@@ -69,7 +69,7 @@ OPNsense.amneziawg
     │   ├── postup
     │   ├── preup
     │   ├── mtu
-    │   ├── jc, jmin, jmax, s1, s2, h1, h2, h3, h4
+    │   ├── jc, jmin, jmax, s1, s2, h1, h2, h3, h4, i1, i2, i3, i4
     │   ├── userland
     │   ├── peer_public_key
     │   ├── peer_preshared_key
@@ -103,7 +103,7 @@ OPNsense.amneziawg
    - **Peer Public Key**: Server's public key
    - **Peer Endpoint**: Server endpoint (IP:port)
    - **Peer Allowed IPs**: Allowed IP ranges
-   - **AmneziaWG Parameters**: Jc, Jmin, Jmax, S1, S2, H1, H2, H3, H4, UserLand
+   - **AmneziaWG Parameters**: Jc, Jmin, Jmax, S1, S2, H1, H2, H3, H4, I1, I2, I3, I4, UserLand
 
 ### Importing Configurations
 1. Navigate to VPN → AmneziaWG → Import
