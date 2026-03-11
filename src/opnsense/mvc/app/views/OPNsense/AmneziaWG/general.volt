@@ -95,6 +95,8 @@
                                 if (data.jmax) $("#instance\\.jmax").val(data.jmax);
                                 if (data.s1) $("#instance\\.s1").val(data.s1);
                                 if (data.s2) $("#instance\\.s2").val(data.s2);
+                                if (data.s1) $("#instance\\.s3").val(data.s3);
+                                if (data.s2) $("#instance\\.s4").val(data.s4);
                                 if (data.h1) $("#instance\\.h1").val(data.h1);
                                 if (data.h2) $("#instance\\.h2").val(data.h2);
                                 if (data.h3) $("#instance\\.h3").val(data.h3);

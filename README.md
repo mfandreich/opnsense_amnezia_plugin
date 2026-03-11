@@ -69,7 +69,7 @@ OPNsense.amneziawg
     │   ├── postup
     │   ├── preup
     │   ├── mtu
-    │   ├── jc, jmin, jmax, s1, s2, h1, h2, h3, h4, i1, i2, i3, i4
+    │   ├── jc, jmin, jmax, s1, s2, s3, s4, h1, h2, h3, h4, i1, i2, i3, i4
     │   ├── userland
     │   ├── peer_public_key
     │   ├── peer_preshared_key

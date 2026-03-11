@@ -153,6 +153,24 @@
         </grid_view>
     </field>
     <field>
+        <id>instance.s3</id>
+        <label>S3</label>
+        <type>text</type>
+        <help>AmneziaWG s3 parameter.</help>
+        <grid_view>
+            <visible>false</visible>
+        </grid_view>
+    </field>
+    <field>
+        <id>instance.s4</id>
+        <label>S4</label>
+        <type>text</type>
+        <help>AmneziaWG s4 parameter.</help>
+        <grid_view>
+            <visible>false</visible>
+        </grid_view>
+    </field>
+    <field>
         <id>instance.h1</id>
         <label>H1</label>
         <type>text</type>
