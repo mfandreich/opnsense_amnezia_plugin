@@ -4,7 +4,7 @@
     <version>1.0.0</version>
     <items>
         <instances>
-            <instance type=".\InstanceField">
+            <instance type="ArrayField">
                 <enabled type="BooleanField">
                     <Default>1</Default>
                     <Required>Y</Required>
@@ -107,10 +107,6 @@
                     <MaximumValue>86400</MaximumValue>
                 </peer_persistent_keepalive>
                 <peer_routes type="TextField"/>
-                <!-- Volatile fields -->
-                <cnfFilename type="TextField" volatile="true"/>
-                <statFilename type="TextField" volatile="true"/>
-                <interface type="TextField" volatile="true"/>
             </instance>
         </instances>
     </items>
