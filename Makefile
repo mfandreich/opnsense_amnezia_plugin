@@ -1,3 +1,4 @@
+
 PLUGIN_NAME=     amneziawg
 PLUGIN_VERSION=        1.0
 PLUGIN_COMMENT=        AmneziaWG VPN Plugin
@@ -13,6 +14,3 @@ PLUGIN_MAINTAINER= antspopov@gmail.com
 #   or: pkg install amnezia-tools amnezia-kmod (if available in package repository)
 
 .include "../../Mk/plugins.mk"
-
-
-
